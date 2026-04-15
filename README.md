@@ -9,43 +9,28 @@
 - C++
 - SFML
 - AngelScript
-- Dear ImGui
+- Dear ImGui (for editor)
 - DragonBones (temporary)
+- Sprite Rendering + Transformations
+- Cmake
+- ECS
+- Scene Management
+- Events
+- A* Pathfinding
+- Basic Collision (Other Collisions exist not binded yet)
+- Game State
+- Input
+- Time
+- Camera
+- UI system
+- Debugga
 
 ---
 
-## Features
 
-- Scene system (load, switch, control scenes)
-- Entity system (create, delete, tag, control)
-- Transforms (move, rotate, scale)
-- Sprite rendering (textures, color, visibility)
-- Collision setup (basic shapes and checks)
-- Animation (DragonBones + animator system)
-- UI system (buttons, text, panels, inputs)
-- Input (keyboard + mouse)
-- Audio (play sounds)
-- Time & timers
-- Game state (flags, stats, inventory, quests)
-- Dialogue system
-- Pathfinding / navigation
-- Event system
-- Camera control
-- Debug tools (logs + debug lines)
-- Scripting with AngelScript
----
+## Installation Guide
 
-## Editor
-
-The editor is built with Dear ImGui. Will make it less eye straining later.
-
----
-
-## Animation Note
-
-DragonBones is only here for now.. please dont take me down loong idk if it works like that
-
-It’s going to be replaced by the Momo Animation System which will be built specifically for this engine.
+Install, Extract, Open Installer, Follow Setup, Voila (youll get the option to install dragonbones in it too)
 
 ---
 
