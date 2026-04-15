@@ -11,18 +11,17 @@
 - AngelScript
 - Dear ImGui (for editor)
 - DragonBones (temporary)
-- Sprite Rendering + Transformations
 - Cmake
 - ECS
 - Scene Management
 - Events
 - A* Pathfinding
-- Basic Collision (Other Collisions exist not binded yet)
+- Basic Collision
 - Game State
 - Input
 - Time
 - Camera
-- UI system
+- UI system (in game)
 - Debugga
 
 ---
